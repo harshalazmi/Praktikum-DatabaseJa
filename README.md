@@ -1,4 +1,6 @@
-# Latihan CRUD Karyawan dengan Java Swing - Praktik OOP Java
+# Muhamad Harshal Azmi - I.2510511 
+
+# Latihan praktikum CRUD Karyawan dengan Java Swing - Praktik OOP Java
 
 Aplikasi desktop sederhana untuk mengelola data karyawan menggunakan Java Swing dan MySQL. Dibuat sebagai tutorial belajar Java dengan GUI dan database.
 
@@ -209,7 +211,7 @@ crud-swing-karyawan/
 
 ## Teknologi yang Digunakan
 
-- **Java**: 21 LTS
+- **Java**: 25 
 - **Swing**: Untuk GUI
 - **MySQL**: Database
 - **Maven**: Build tool
