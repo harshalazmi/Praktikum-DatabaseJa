@@ -5,8 +5,8 @@ import java.sql.*;
 public class CConnection {
     public Connection cn;
 
-    private String url = "jdbc:mysql://localhost:3306/karyawan_db"; // kalo ngikutin tutorial ga usah di ubah
-    private String user = "karyawan_user";    // Sesuaikan sama username MySQL Anda
+    private String url = "jdbc:mysql://localhost:3306/latihan_hrsl"; // kalo ngikutin tutorial ga usah di ubah
+    private String user = "hrsl_user";    // Sesuaikan sama username MySQL Anda
     private String password = "password123"; // Sesuaikan sama password MySQL Anda
 
     static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
