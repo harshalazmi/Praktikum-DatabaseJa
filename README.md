@@ -233,4 +233,4 @@ Jika ada pertanyaan atau masalah:
 ---
 
 ## Hasil yang diharapkan
-![Output](Assets/hasil.png)
+![Output](Assets/Hasil.png)
