@@ -137,6 +137,9 @@ Sudah termasuk dalam `pom.xml` sebagai dependensi Maven:
      GRANT ALL PRIVILEGES ON latihan_hrsl.* TO 'hrsl_user'@'localhost';
      FLUSH PRIVILEGES;
      ```
+## DB
+* [Download File Database.sql](latihan_hrsl.sql)
+
 
 ## Konfigurasi
 
@@ -229,4 +232,5 @@ Jika ada pertanyaan atau masalah:
 
 ---
 
-**Catatan**: Pastikan MySQL server selalu berjalan sebelum menjalankan aplikasi. Aplikasi ini menggunakan koneksi database langsung tanpa connection pooling untuk kesederhanaan.
+## Hasil yang diharapkan
+![Output](Assets/hasil.png)
