@@ -119,7 +119,7 @@ Sudah termasuk dalam `pom.xml` sebagai dependensi Maven:
      ```
    - Buat database dan tabel:
      ```sql
-     CREATE DATABASE karyawan_db; //LatihanNamaKamu
+     CREATE DATABASE latihan_hrsl; //LatihanNamaKamu
      USE karyawan_db;
 
      CREATE TABLE karyawan (
@@ -132,8 +132,8 @@ Sudah termasuk dalam `pom.xml` sebagai dependensi Maven:
      ```
    - Buat user database (opsional, tapi recommended):
      ```sql
-     CREATE USER 'karyawan_user'@'localhost' IDENTIFIED BY 'password123';
-     GRANT ALL PRIVILEGES ON karyawan_db.* TO 'karyawan_user'@'localhost';
+     CREATE USER 'hrsl_user'@'localhost' IDENTIFIED BY 'password123';
+     GRANT ALL PRIVILEGES ON latihan_hrsl.* TO 'hrsl_user'@'localhost';
      FLUSH PRIVILEGES;
      ```
 
@@ -143,8 +143,8 @@ Sudah termasuk dalam `pom.xml` sebagai dependensi Maven:
 Edit file `src/main/java/javatutorial/CConnection.java`:
 
 ```java
-private String url = "jdbc:mysql://localhost:3306/karyawan_db";
-private String user = "karyawan_user";  // Ganti dengan username MySQL Anda
+private String url = "jdbc:mysql://localhost:3306/latihan_hrsl";
+private String user = "hrsl_user";  // Ganti dengan username MySQL Anda
 private String password = "password123"; // Ganti dengan password MySQL Anda
 ```
 
