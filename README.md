@@ -1,5 +1,5 @@
 # Muhamad Harshal Azmi - I.2510511 
-- credit : aliimndev
+- credit : [aliimndev] (https://github.com/aliimndev)
 
 # Latihan praktikum CRUD Karyawan dengan Java Swing - Praktik OOP Java
 
