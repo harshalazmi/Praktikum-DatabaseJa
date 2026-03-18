@@ -3,6 +3,10 @@
 
 # Latihan praktikum CRUD Karyawan dengan Java Swing - Praktik OOP Java
 
+## Hasil yang diharapkan
+![Output](Assets/Hasil.png)
+
+
 Aplikasi desktop sederhana untuk mengelola data karyawan menggunakan Java Swing dan MySQL. Dibuat sebagai tutorial belajar Java dengan GUI dan database.
 
 ## Deskripsi Proyek
@@ -231,6 +235,3 @@ Jika ada pertanyaan atau masalah:
 - Verifikasi konfigurasi database
 
 ---
-
-## Hasil yang diharapkan
-![Output](Assets/Hasil.png)
