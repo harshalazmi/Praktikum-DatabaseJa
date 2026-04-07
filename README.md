@@ -3,7 +3,7 @@
 
 # Latihan praktikum CRUD Karyawan dengan Java Swing - Praktik OOP Java
 
-## Hasil yang diharapkan
+## Hasil 
 ![Output](Assets/Hasil.png)
 
 
