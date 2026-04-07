@@ -5,12 +5,15 @@
 
 ## Table of Contents
 
-- [Hasi](#Hasil)
-- [Documentation](#documentation)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [How to Run](#how-to-run)
-- [API Base URL](#api-base-url)
+- [Hasil](#Hasil)
+- [Deskripsi Proyek](#Deskripsi-Proyek)
+- [Fitur](#Fitur)
+- [Prasyarat](#Prasyarat)
+- [Instalasi](#Instalasi)
+- [Konfigurasi](#Konfigurasi)
+- [Struktur Proyek](#Struktur-Proyek)
+- [Troubleshooting](#Troubleshooting)
+- [Teknologi yang digunakan](#Teknologi-yang-Digunakan).
 - [Dukungan](#Dukungan)
 
 ## Hasil 
