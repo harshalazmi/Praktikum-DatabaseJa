@@ -3,6 +3,16 @@
 
 # Latihan praktikum CRUD Karyawan dengan Java Swing - Praktik OOP Java
 
+## Table of Contents
+
+- [Hasi](#Hasil)
+- [Documentation](#documentation)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [How to Run](#how-to-run)
+- [API Base URL](#api-base-url)
+- [Dukungan](#Dukungan)
+
 ## Hasil 
 ![Output](Assets/Hasil.png)
 
